@@ -1,0 +1,133 @@
+   [{
+    "id": 1,
+    "title": "Puma Unisex-Adult Cap",
+    "description": "An apple mobile which is nothing like apple",
+    "price": 549,
+    "rating": 4.1,
+    "brand": "Puma",
+    "category": "Clothes",
+    "thumbnail": "https://m.media-amazon.com/images/I/81E80ehHyiL._UX679_.jpg"
+},
+    {
+    "id": 2,
+    "title": "Night Suits for Infants",
+    "description": "EIO® 100% Cotton Rompers Sleepsuits Jumpsuit Night Suits for Infants Newborn Baby Boys & Girls Pack of 3",
+    "price": 428,
+    "rating": 4.69,
+    "brand": "Puma",
+    "category": "Clothes",
+    "thumbnail": "https://m.media-amazon.com/images/I/61k-7wDEdtL._UX679_.jpg"
+    },
+    {
+    "id": 3,
+    "title": "Summer Shirts for Men",
+    "description": "DHRUVI TRENDZ Men Summer Shirts for Men",
+    "price": 249,
+    "rating": 4.4,
+    "brand": "DHRUVI TRENDZ",
+    "category": "Clothes",
+    "thumbnail": "https://m.media-amazon.com/images/I/71U6rN80RIL._UY550_.jpg"
+    },
+    {
+    "id": 4,
+    "title": "Puma Unisex-Adult Cap",
+    "description": "An apple mobile which is nothing like apple",
+    "price": 549,
+    "discountPercentage": 12.96,
+    "rating": 3.69,
+    "brand": "Puma",
+    "category": "Clothes",
+    "thumbnail": "https://m.media-amazon.com/images/I/81E80ehHyiL._UX679_.jpg"
+    },
+    {
+    "id": 5,
+    "title": "Printed Unstitched Salwar Suit",
+    "description": "SIRIL Women's Poly Cotton Printed Unstitched Salwar Suit Material With Poly Cotton Dupatta",
+    "price": 319,
+    "rating": 3.9,
+    "brand": "SIRIL",
+    "category": "Clothes",
+    "thumbnail": "https://m.media-amazon.com/images/I/611sZibrXHL._UY500_.jpg"
+    },
+    {
+    "id": 6,
+    "title": "Girls Onesies ",
+    "description": "Hopscotch Girls Polycotton Text Print Onesies with in Green Color",
+    "price": 734,
+    "rating": 3.89,
+    "brand": "Hopscotch",
+    "category": "Clothes",
+    "thumbnail": "https://m.media-amazon.com/images/I/61D4QOZ+ajL._UX522_.jpg"
+    },
+    {
+    "id": 7,
+    "title": "Women Silk Lehenga Choli Set",
+    "description": "Zeel Clothing Women Silk Semi-Stitched Lehenga Choli Set",
+    "price": 2443,
+    "rating": 4.89,
+    "brand": "Zeel Clothing",
+    "category": "Clothes",
+    "thumbnail": "https://m.media-amazon.com/images/I/81dgR8xAcOL._UY550_.jpg"
+    },
+    {
+    "id": 8,
+    "title": "Casual Shirt for Men",
+    "description": "Lymio Casual Shirt for Men|| Shirt for Men|| Men Stylish Shirt || Men Printed Shirt (Patta)",
+    "price": 279,
+    "rating": 4.29,
+    "brand": "Lymio",
+    "category": "Clothes",
+    "thumbnail": "https://m.media-amazon.com/images/I/71ZGe3YWTVL._UY550_.jpg"
+    },
+    {
+    "id": 9,
+    "title": "Handy Chopper",
+    "description": "Premium Handy Chopper with 3 Blades for Effortlessly Chopping Vegetables and Fruits for Your Kitchen (Green, 400 ml, 12420)",
+    "price": 269,
+    "rating": 4.11,
+    "brand": "Pigeon",
+    "category": "Accessories",
+    "thumbnail": "https://m.media-amazon.com/images/I/51RXzjrUmkL._SL1000_.jpg"
+    },
+    {
+    "id": 10,
+    "title": "Portable Tabletop",
+    "description": "Tablet Stand Mobile Holder, Desktop Stand, Cradle, Dock for iPad, Smartphone, Kindle, E-Reader, Fully Foldable, Adjustable Angle, Anti-Slip Pads, Black",
+    "price": 145,
+    "rating": 4.31,
+    "brand": "GIZGA",
+    "category": "Accessories",
+    "thumbnail": "https://m.media-amazon.com/images/I/61zODtv7sfL._SL1500_.jpg"
+    },
+    {
+    "id": 11,
+    "title": "Car Wheel Cleaning Brush",
+    "description": "AllExtreme Car Wheel Cleaning Brush",
+    "price": 159,
+    "rating": 3.11,
+    "brand": "AllExtreme",
+    "category": "Accessories",
+    "thumbnail": "https://m.media-amazon.com/images/I/71WuxWlTLNL._SL1500_.jpg"
+    },
+    {
+    "id": 12,
+    "title": "Car Mobile Phone Holder",
+    "description": "Portronics Clamp M2 Adjustable Car Mobile Phone Holder Stand for Dashboard & Windshield, 360° Rotational, Strong Suction Cup, Compatible with 4 to 6 inch Devices(Black)",
+    "price": 259,
+    "rating": 4.01,
+    "brand": "Portronics",
+    "category": "Accessories",
+    "thumbnail": "https://m.media-amazon.com/images/I/41H7NUu+b4L._SL1200_.jpg"
+    },
+    {
+    "id": 13,
+    "title": "Car Bluetooth Receiver",
+    "description": "Portronics AUTO 12 in-Car Bluetooth Receiver for Handsfree Calling, Music System, Supports All Smartphones (Black)",
+    "price": 589,
+    "rating": 4.31,
+    "brand": "Portronics",
+    "category": "Accessories",
+    "thumbnail": "https://m.media-amazon.com/images/I/51Ioc0bbHqL._SL1200_.jpg"
+    }
+
+]

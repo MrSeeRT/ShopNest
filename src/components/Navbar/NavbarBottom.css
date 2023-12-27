@@ -1,0 +1,35 @@
+*{
+    /* overflow-x: hidden; */
+}
+.ms-n5 {
+    margin-left: -40px;
+    margin-top: 3px;
+    /* background-color:rgba(232, 232, 232, 0.875); */
+}
+.form-control{
+   height: 50px;
+    text-align:left; padding-left: 23px;
+    outline: none;
+}
+.form-control:focus{
+    outline: none !important;
+    border: none !important;
+}
+.form-control::placeholder{
+    color: rgba(70, 68, 68, 0.551);
+}
+.seertbtnfoucs{
+    border: none; 
+            cursor: pointer; 
+            outline: none;
+            
+}
+.seertmargincart{
+    height: 100%;
+    width: 100%;
+}
+@media screen and (min-width: 768px) {
+   .hellllocss{
+      width: 40rem;
+    }
+  }

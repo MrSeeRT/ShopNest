@@ -1,0 +1,36 @@
+.seertsingleproductbtn{
+    background-color: black;
+    color: #fff;
+    border-radius: 7px;
+    /* border: 1px solid #fff; */
+}
+.seertcardtop{
+    background: #f4f4f4;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+.seertcardtop:hover{
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.seertbtn-hidden{
+    display: none;
+}
+/* .seertimagehover{
+    z-index: 1000;
+} */
+.seertimagehover{
+    border-radius: 15px;
+cursor: pointer;
+transform: translate(-10px, -40px);
+}
+/* .seertsingleproduct-detailsbtn{
+    background-color: black;
+    color: #fff;
+    border-radius: 7px;
+} */
+.seertsingleproductbtn:hover{
+    background-color: rgba(16, 16, 16, 0.912);
+    border: 1px solid black;
+    box-shadow: 2px 2px 5px #d1cfcf;
+}
+
